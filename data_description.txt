@@ -1,0 +1,67 @@
+1stFlrSF 一楼面积
+2ndFlrSF 二楼面积
+GrLivArea 地上生活区面积
+BedroomAbvGr 地面以上的卧室数量
+TotRmsAbvGrd 地上总房间（除浴室）
+FullBath 地上完整浴室数量
+HalfBath 地上简易浴室数量
+
+KitchenAbvGr 地上厨房数量
+KitchenQual 厨房质量
+
+TotalBsmtSF 地下室总面积
+BsmtCond 地下室状况（离散）缺失为无
+BsmtExposure 地下室日照情况（离散）
+BsmtFinType1  地下室类别1（离散）
+BsmtFinSF1  类别1的完成面积
+BsmtFinType2  地下室类别2（离散）
+BsmtFinSF2  类别2的完成面积
+BsmtFullBath  地下室完整浴室数量
+BsmtHalfBath  地下室简易浴室数量
+BsmtQual 地下室高度分级
+BsmtUnfSF 未完成地下室面积
+
+BldgType 房屋类型（离散）
+HouseStyle 住宅类型
+OverallCond 整体情况
+OverallQual 整体质量
+
+SaleCondition 出售情况
+SaleType 出售类型
+
+
+3SsnPorch 半开放门廊面积
+OpenPorchSF 开放门廊面积
+EnclosedPorch 封闭式门廊面积
+ScreenPorch 屏幕门廊面积
+
+
+Heating 采暖类型
+HeatingQC 采暖质量
+RoofMatl 屋顶材料
+RoofStyle 屋顶样式
+
+CentralAir 是否有中央空调
+Condition1 位置条件1
+Condition2 位置条件2
+Electrical 电力条件
+ExterCond 外立面状况
+ExterQual 外立面质量
+Exterior1st 外立面材料1
+Exterior2nd 外立面材料2
+FireplaceQu 壁炉质量
+Fireplaces 壁炉数量
+Foundation 地基类型
+LandSlope 房屋平整度
+MiscVal 杂项价格
+
+
+GarageArea 车库面积
+GarageCars 车库停车位
+GarageCond 车库情况
+GarageFinish 车库完成度
+GarageQual 车库质量
+GarageType 车库位置
+GarageYrBlt 车库建造时间
+PavedDrive 车道情况
+
